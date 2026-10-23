@@ -2,6 +2,25 @@
 
 Complete blogging platform with public-facing blog and admin dashboard for content management.
 
+Repository: https://github.com/0xyz-exe/laravel-blog-app
+
+## Screenshots
+
+### Public Blog Homepage
+![Blog homepage](docs/screenshots/01_blog_home.png)
+
+### Single Post Article View
+![Single post](docs/screenshots/02_post_view.png)
+
+### Admin Posts Management Dashboard
+![Admin posts](docs/screenshots/03_admin_posts.png)
+
+### Post Editor & Draft Workflow
+![Post editor](docs/screenshots/04_post_editor.png)
+
+### Authentication
+![Authentication](docs/screenshots/05_login.png)
+
 ## Features
 
 - ✅ Public blog homepage
